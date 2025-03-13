@@ -20,7 +20,7 @@ apiVersion: v2
 appVersion: 7.4.2
 dependencies:
 - name: common
-  repository: oci://registry-1.docker.io/bitnamicharts
+  repository: https://xin3liang.github.io/charts
   tags:
   - bitnami-common
   version: 2.x.x
